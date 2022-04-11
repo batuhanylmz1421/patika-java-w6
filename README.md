@@ -1,6 +1,6 @@
 # patika-java-w5
 Java Patikası <br/> 
-Week 5 - Homework <br/>
+Week 6 - Homework <br/>
 Batuhan YILMAZ<br/>
 ------------------------------
 # Java’da araç kiralama portalı yapılması.
