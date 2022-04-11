@@ -1,4 +1,4 @@
-# patika-java-w5
+# patika-java-w6
 Java Patikası <br/> 
 Week 6 - Homework <br/>
 Batuhan YILMAZ<br/>
